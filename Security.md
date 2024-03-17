@@ -1,5 +1,5 @@
 
-(Security+)[https://www.youtube.com/watch?v=O4pJeXgOJDs]
+Link : https://www.youtube.com/watch?v=O4pJeXgOJDs
 
 # CompTIA Security+ Full Course 
 
